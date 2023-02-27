@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/25 12:52:44.000.721,=C:\Users\gupa2\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/25 12:54:22.000.521,C:\Users\gupa2\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Login.pas</Transaction>
+    <Transaction>2023/02/25 12:54:22.000.521,C:\Users\gupa2\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Login.dfm</Transaction>
+    <Transaction>2023/02/25 12:54:32.000.224,C:\Users\gupa2\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Projeto_Posto.dproj</Transaction>
+    <Transaction>2023/02/25 12:59:08.000.998,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Principal.pas</Transaction>
+    <Transaction>2023/02/25 13:00:00.000.049,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Principal.pas=</Transaction>
+    <Transaction>2023/02/25 13:22:12.000.644,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/25 13:23:57.000.858,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/25 13:30:54.000.185,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Conexao.pas</Transaction>
+    <Transaction>2023/02/25 13:30:54.000.185,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Conexao.dfm</Transaction>
+    <Transaction>2023/02/25 13:41:19.000.796,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Principal.pas</Transaction>
+    <Transaction>2023/02/25 13:42:24.000.468,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Principal.pas=</Transaction>
+    <Transaction>2023/02/25 20:48:46.000.020,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/25 20:49:22.000.082,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Principal.dfm</Transaction>
+    <Transaction>2023/02/25 20:49:22.000.082,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Principal.pas</Transaction>
+    <Transaction>2023/02/25 21:04:04.000.725,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/25 21:04:28.000.299,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Abastecer.pas</Transaction>
+    <Transaction>2023/02/25 21:04:28.000.299,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Abastecer.dfm</Transaction>
+    <Transaction>2023/02/25 22:46:59.000.134,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/25 22:47:42.000.915,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\ControllerAbastecer.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/25 22:47:42.000.915,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\ControllerAbastecer.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.dfm</Transaction>
+    <Transaction>2023/02/25 22:58:13.000.303,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/25 22:58:29.000.894,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\DaoAbastecimento.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.dfm</Transaction>
+    <Transaction>2023/02/25 22:58:29.000.894,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\DaoAbastecimento.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/26 14:05:38.000.001,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/26 14:06:31.000.336,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Tanque.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.dfm</Transaction>
+    <Transaction>2023/02/26 14:06:31.000.336,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Tanque.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/26 14:25:52.000.140,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/26 14:26:10.000.413,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\ControllerTanque.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.dfm</Transaction>
+    <Transaction>2023/02/26 14:26:10.000.413,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\ControllerTanque.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/26 14:44:00.000.249,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/26 14:44:13.000.288,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\DaoTanque.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/26 14:44:13.000.288,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\DaoTanque.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.dfm</Transaction>
+    <Transaction>2023/02/26 15:15:45.000.050,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/26 15:16:05.000.918,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Imposto.pas</Transaction>
+    <Transaction>2023/02/26 15:16:05.000.918,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Imposto.dfm</Transaction>
+    <Transaction>2023/02/26 19:51:11.000.494,=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas</Transaction>
+    <Transaction>2023/02/26 19:51:41.000.804,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Relatorio.dfm</Transaction>
+    <Transaction>2023/02/26 19:51:41.000.804,C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Unit1.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Projeto_Posto\Relatorio.pas</Transaction>
+  </Transactions>
+</BorlandProject>
